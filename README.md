@@ -1,3 +1,3 @@
 # roll-the-dice
 
-Tap on the screen to roll up to 6 dice simultaneously.
+Tap on the screen to roll up to six dice simultaneously.
